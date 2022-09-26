@@ -6,6 +6,6 @@ export default (props) => (
     <div className="display-4">Bem vindo</div>
     <hr />
     <p className="mb-0">Sistema para exemplificar a construçao de um CRUD 
-        em React</p>
+        em React Teste</p>
   </Main>
 );
